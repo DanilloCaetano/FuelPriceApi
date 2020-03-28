@@ -1,0 +1,17 @@
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPriceAPI.deps.json
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPriceAPI.runtimeconfig.json
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPriceAPI.runtimeconfig.dev.json
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPriceAPI.dll
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPriceAPI.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPrice.Domain.dll
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\bin\Debug\netcoreapp2.2\FuelPrice.Domain.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.csprojAssemblyReference.cache
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.csproj.CoreCompileInputs.cache
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.RazorAssemblyInfo.cache
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.RazorAssemblyInfo.cs
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.AssemblyInfoInputs.cache
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.AssemblyInfo.cs
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.RazorTargetAssemblyInfo.cache
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.csproj.CopyComplete
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.dll
+C:\FuelPrice\FuelPriceAPI\FuelPriceAPI\obj\Debug\netcoreapp2.2\FuelPriceAPI.pdb

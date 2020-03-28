@@ -1,0 +1,15 @@
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\FuelPrice.Domain.dll
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\FuelPrice.Domain.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\obj\Debug\FuelPrice.Domain.csprojAssemblyReference.cache
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\obj\Debug\FuelPrice.Domain.csproj.CoreCompileInputs.cache
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\obj\Debug\FuelPrice.Domain.dll
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\obj\Debug\FuelPrice.Domain.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\HtmlAgilityPack.dll
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\HtmlAgilityPack.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\HtmlAgilityPack.xml
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\obj\Debug\FuelPrice.Domain.csproj.CopyComplete
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\FuelPrice\FuelPriceAPI\FuelPrice.Domain\bin\Debug\Newtonsoft.Json.Bson.xml
